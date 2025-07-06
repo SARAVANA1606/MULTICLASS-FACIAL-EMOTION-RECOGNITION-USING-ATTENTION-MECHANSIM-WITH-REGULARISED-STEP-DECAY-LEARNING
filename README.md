@@ -1,4 +1,4 @@
-# MULTICLASS-FACIAL-EMOTION-RECOGNITION-USING-ATTENTION-MECHANSIM-WITH-REGULARISED-STEP-DECAY-LEARNING# Multiclass Facial Emotion Recognition using Attention Mechanism, Regularizers, and Step Decay Learning
+# MULTICLASS-FACIAL-EMOTION-RECOGNITION-USING-ATTENTION-MECHANSIM-WITH-REGULARISED-STEP-DECAY-LEARNING
 
 This project implements a deep learning model for **Facial Emotion Recognition (FER)** using an enhanced **Xception-based architecture**. The system incorporates **spatial attention mechanisms**, **L2 regularization**, and a **step decay learning rate schedule** to achieve high accuracy on multiclass emotion classification tasks.
 
